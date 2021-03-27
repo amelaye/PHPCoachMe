@@ -1,5 +1,7 @@
 /.idea
+.idea/*
 /.idea/*
+/.idea/commandlinetools/*
 
 ###> symfony/framework-bundle ###
 /.env.local
